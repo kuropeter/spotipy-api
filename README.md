@@ -60,6 +60,7 @@ These columns are retrieved using the `audio_features` function from the Spotify
 
 - **GitHub Repo:** [(https://github.com/kuropeter/spotipy-api)]
 - **Documentation:** [(https://github.com/kuropeter/spotipy-api/edit/main/README.md)]
+- **Linkedin Post:** 
 
 ## 📬 Contact
 
