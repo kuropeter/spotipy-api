@@ -58,8 +58,8 @@ These columns are retrieved using the `audio_features` function from the Spotify
 
 ## 📂 Project Resources
 
-- **GitHub Repo:** [[Insert GitHub Link]](https://github.com/kuropeter/spotipy-api)
-- **Documentation:** [[Insert Documentation Link]](https://github.com/kuropeter/spotipy-api/edit/main/README.md)
+- **GitHub Repo:** [(https://github.com/kuropeter/spotipy-api)]
+- **Documentation:** [(https://github.com/kuropeter/spotipy-api/edit/main/README.md)]
 
 ## 📬 Contact
 
