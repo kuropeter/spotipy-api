@@ -2,7 +2,7 @@ Here's a sample README for your project:
 
 ---
 
-# 🎧 Apple Music Top 100 African Songs Data Extraction Project
+# 🎧 Extracting Spotify Playlist using Spotipy-API
 
 This project involves extracting and analyzing data from the **Top 100 African Songs** playlist using the Spotify Web API. The extracted data will be used for further visualization, analysis, and the development of a music prediction model and dashboards.
 
